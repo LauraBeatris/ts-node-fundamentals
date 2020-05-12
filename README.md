@@ -47,6 +47,10 @@ Run the following command in order to start the application in a development env
 
 ```yarn dev-server```
 
+Run the following command in order to run the test suits:
+
+```yarn test```
+
 # :postbox: Faq
 
 **Question:** What are the tecnologies used in this project?

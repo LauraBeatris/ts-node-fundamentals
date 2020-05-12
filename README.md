@@ -1,5 +1,5 @@
-<p align="center">
-   <img src=".github/logo-challenge.png" width="200"/>
+<p align="left">
+   <img src=".github/challenge-logo.png" width="400"/>
 </p>
 
 # NodeJS + TypeScript Fundamentals
@@ -9,13 +9,13 @@
 
 
 [![Author](https://img.shields.io/badge/author-LauraBeatris-D54F44?style=flat-square)](https://github.com/LauraBeatris)
-[![Languages](https://img.shields.io/github/languages/count/LauraBeatris/foodfy?color=%23D54F44&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/LauraBeatris/foodfy?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/foodfy/stargazers)
-[![Forks](https://img.shields.io/github/forks/LauraBeatris/foodfy?color=%23D54F44&style=flat-square)](https://github.com/LauraBeatris/foodfy/network/members)
-[![Contributors](https://img.shields.io/github/contributors/LauraBeatris/foodfy?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/foodfy/graphs/contributors)
+[![Languages](https://img.shields.io/github/languages/count/LauraBeatris/ts-node-fundamentals?color=%23D54F44&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LauraBeatris/ts-node-fundamentals?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/stargazers)
+[![Forks](https://img.shields.io/github/forks/LauraBeatris/ts-node-fundamentals?color=%23D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/network/members)
+[![Contributors](https://img.shields.io/github/contributors/LauraBeatris/ts-node-fundamentals?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/graphs/contributors)
 
 
-> Applying the fundamentals of NodeJS + TypeScript following the SOLID archicture principles 
+> Applying the fundamentals of NodeJS + TypeScript following the SOLID archicture principles
 
 ---
 

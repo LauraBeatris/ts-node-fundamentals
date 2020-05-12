@@ -30,11 +30,11 @@
 
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then clone the project using this command:**
 
-```git clone https://github.com/LauraBeatris/foodfy.git```
+```git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you a SSH key registered in your Github account, clone the project using this command:
 
-```git@github.com:LauraBeatris/foodfy.git```
+```git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
 **Install dependencies**
 

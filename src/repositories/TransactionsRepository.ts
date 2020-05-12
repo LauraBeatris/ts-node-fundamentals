@@ -1,3 +1,4 @@
+import { uuid } from 'uuidv4';
 import Transaction from '../models/Transaction';
 
 interface Balance {
@@ -6,6 +7,11 @@ interface Balance {
   total: number;
 }
 
+interface TransactionDTO {
+  title: string;
+  value: number;
+  type: 'income' | 'outcome';
+}
 class TransactionsRepository {
   private transactions: Transaction[];
 
@@ -14,15 +20,40 @@ class TransactionsRepository {
   }
 
   public all(): Transaction[] {
-    // TODO
+    return this.transactions;
   }
 
   public getBalance(): Balance {
-    // TODO
+    const balance = this.transactions.reduce(
+      (accumulator, transaction) => {
+        accumulator[transaction.type] += transaction.value;
+        accumulator.total = accumulator.income - accumulator.outcome;
+        return accumulator;
+      },
+      {
+        income: 0,
+        outcome: 0,
+        total: 0,
+      },
+    );
+
+    return balance;
   }
 
-  public create(): Transaction {
-    // TODO
+  /* Passing a class instance as
+     the arguments type and using a Utility Type to omit a property
+  */
+  public create({ title, value, type }: TransactionDTO): Transaction {
+    const transaction = {
+      id: uuid(),
+      title,
+      value,
+      type,
+    };
+
+    this.transactions.push(transaction);
+
+    return transaction;
   }
 }
 

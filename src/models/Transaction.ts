@@ -1,6 +1,7 @@
 import { uuid } from 'uuidv4';
 
 class Transaction {
+  /* Attributes */
   id: string;
 
   title: string;
@@ -9,6 +10,9 @@ class Transaction {
 
   type: 'income' | 'outcome';
 
+  /* Passing a class instance as
+     the arguments type and using a Utility Type to omit a property
+  */
   constructor({ title, value, type }: Omit<Transaction, 'id'>) {
     this.id = uuid();
     this.title = title;

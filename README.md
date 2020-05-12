@@ -10,7 +10,7 @@
 
 [![Author](https://img.shields.io/badge/author-LauraBeatris-1E579E?style=flat-square)](https://github.com/LauraBeatris)
 [![Languages](https://img.shields.io/github/languages/count/LauraBeatris/ts-node-fundamentals?color=%231E579E&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/LauraBeatris/ts-node-fundamentals?color=%231E579EE&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/stargazers)
+[![Stars](https://img.shields.io/github/stars/LauraBeatris/ts-node-fundamentals?color=%231E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/stargazers)
 [![Forks](https://img.shields.io/github/forks/LauraBeatris/ts-node-fundamentals?color=%231E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/network/members)
 [![Contributors](https://img.shields.io/github/contributors/LauraBeatris/ts-node-fundamentals?color=1E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/graphs/contributors)
 

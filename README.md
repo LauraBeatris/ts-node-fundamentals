@@ -23,7 +23,7 @@
 
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
-* [FAQ](#postbox_faq)
+* [FAQ](#postbox-faq)
 * [License](#closed_book-license)
 
 

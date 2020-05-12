@@ -8,11 +8,11 @@
 
 
 
-[![Author](https://img.shields.io/badge/author-LauraBeatris-D54F44?style=flat-square)](https://github.com/LauraBeatris)
+[![Author](https://img.shields.io/badge/author-LauraBeatris-1E579E?style=flat-square)](https://github.com/LauraBeatris)
 [![Languages](https://img.shields.io/github/languages/count/LauraBeatris/ts-node-fundamentals?color=%23D54F44&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/LauraBeatris/ts-node-fundamentals?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/stargazers)
-[![Forks](https://img.shields.io/github/forks/LauraBeatris/ts-node-fundamentals?color=%23D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/network/members)
-[![Contributors](https://img.shields.io/github/contributors/LauraBeatris/ts-node-fundamentals?color=D54F44&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/LauraBeatris/ts-node-fundamentals?color=1E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/stargazers)
+[![Forks](https://img.shields.io/github/forks/LauraBeatris/ts-node-fundamentals?color=%231E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/network/members)
+[![Contributors](https://img.shields.io/github/contributors/LauraBeatris/ts-node-fundamentals?color=1E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/graphs/contributors)
 
 
 > Applying the fundamentals of NodeJS + TypeScript following the SOLID archicture principles

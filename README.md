@@ -15,7 +15,7 @@
 [![Contributors](https://img.shields.io/github/contributors/LauraBeatris/ts-node-fundamentals?color=1E579E&style=flat-square)](https://github.com/LauraBeatris/ts-node-fundamentals/graphs/contributors)
 
 
-> Applying the fundamentals of NodeJS + TypeScript following the SOLID archicture principles
+> Applying the fundamentals of NodeJS + TypeScript following the SOLID architecture principles
 
 ---
 
@@ -31,11 +31,11 @@
 
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then clone the project using this command:**
 
-```git@github.com:LauraBeatris/ts-node-fundamentals.git```
+```git clone git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
-SSH URLs provide access to a Git repository via SSH, a secure protocol. If you a SSH key registered in your Github account, clone the project using this command:
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you use a SSH key registered in your Github account, clone the project using this command:
 
-```git@github.com:LauraBeatris/ts-node-fundamentals.git```
+```git clone git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
 **Install dependencies**
 

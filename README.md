@@ -28,13 +28,13 @@
 
 # :construction_worker: Installation
 
-**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then clone the project using this command:**
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTP, run this command:**
 
-```git@github.com:LauraBeatris/ts-node-fundamentals.git```
+```git clone git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
-SSH URLs provide access to a Git repository via SSH, a secure protocol. If you a SSH key registered in your Github account, clone the project using this command:
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-```git@github.com:LauraBeatris/ts-node-fundamentals.git```
+```git clone git@github.com:LauraBeatris/ts-node-fundamentals.git```
 
 **Install dependencies**
 
